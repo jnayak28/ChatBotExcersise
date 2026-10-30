@@ -157,13 +157,13 @@ Create an Amazon ECR repository.
 Example full ECR image URI:
 
 ```text
-315865595366.dkr.ecr.us-east-1.amazonaws.com/bappygpt
+596152114562.dkr.ecr.us-east-2.amazonaws.com/chatbotexercise
 ```
 
 For GitHub Secrets, only save the repository name:
 
 ```text
-ECR_REPO=bappygpt
+ECR_REPO=chatbotexcercise
 ```
 
 Do not save the full ECR URI as `ECR_REPO`.
